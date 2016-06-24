@@ -2,10 +2,10 @@
 ***
 #### Api du plus célèbre site entre particuliers **Leboncoin**
 
-+ ##### Connexion au compte
-    - ##### Récupérer les ventes
-+ ##### Faire une recherche avancée
-+ ##### Récupérer une annonce
++ Connexion au compte
+    - Récupérer les ventes
++ Faire une recherche avancée
++ Récupérer une annonce
 
 ### Initialiser la classe
 ``` 
