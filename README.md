@@ -1,3 +1,6 @@
+# [DEPRECATED]
+# New version here : https://github.com/absmoca/SDK-PHP-Leboncoin
+
 # Leboncoin-api
 ***
 #### Api du plus célèbre site entre particuliers **Leboncoin**
